@@ -1,0 +1,2 @@
+# Design system contextual
+Definir tokens de cor, contraste, tipografia, escala, espaçamento, grid, breakpoints, componentes, estados, motion, imagens e tom editorial conforme marca e objetivo. Não forçar dark mode, neon, vídeo ou estilo automotivo. Evitar layout genérico e repetição de padrões entre seções. Criar hierarquia de conversão clara, CTA primário consistente e conteúdo factual. Documentar escolhas e congelar elementos aprovados.

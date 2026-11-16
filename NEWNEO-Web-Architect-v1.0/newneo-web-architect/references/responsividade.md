@@ -1,0 +1,2 @@
+# Responsividade e acessibilidade
+Testar no mínimo larguras representativas 360, 390, 430, 768, 1024 e 1920px quando pertinente. Verificar overflow, tipografia, CTAs, foco, teclado, semântica, contraste, alvos de toque, zoom, leitura, formulários, diálogos, reduced motion e navegação por âncoras com header fixo. Diferenciar emulador de dispositivo real. Registrar capturas e problemas por severidade.

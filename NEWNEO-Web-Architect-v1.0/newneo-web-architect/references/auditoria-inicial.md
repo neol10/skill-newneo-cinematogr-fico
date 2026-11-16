@@ -1,0 +1,2 @@
+# Auditoria inicial — somente leitura
+Inspecionar estrutura do repositório, frameworks, versões, rotas, componentes, estilos, dependências, env vars (sem expor segredos), serviços, hospedagem, autenticação, RLS, testes, CI, erros, métricas disponíveis e assets. Para mídias: formatos reais, resolução, duração, peso, codecs, orientação, direitos e adequação. Identificar estado funcional, dívidas, riscos e partes já aprovadas. Não modificar nada nesta fase. Produzir inventário, mapa de dependências, riscos priorizados e proposta de etapas.

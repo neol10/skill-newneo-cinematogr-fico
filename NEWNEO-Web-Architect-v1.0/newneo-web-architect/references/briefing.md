@@ -1,0 +1,2 @@
+# Briefing estratégico
+Coletar somente o necessário para avançar: marca, proposta de valor, público, objetivo primário e CTA, serviços/produtos confirmados, provas disponíveis, diferenciais verificáveis, identidade existente, referências visuais, conteúdo/mídias, domínios, idiomas, integrações, prazo, manutenção e restrições. Registrar lacunas como PENDENTE. Não inventar dados. Distinguir briefing comercial de requisitos funcionais e não funcionais.

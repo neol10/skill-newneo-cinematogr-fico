@@ -1,0 +1,13 @@
+# Checklist de entrega
+- [ ] Escopo aprovado e nenhuma alteração não autorizada
+- [ ] Conteúdo comercial verificado
+- [ ] Links, CTAs, formulários e navegação testados
+- [ ] Desktop/mobile e acessibilidade validados
+- [ ] Build, tipos, lint e testes pertinentes executados
+- [ ] Performance, mídia, SEO e metadados auditados
+- [ ] Segurança e privacidade revisadas conforme escopo
+- [ ] Erros de console e logs relevantes analisados
+- [ ] Pendências, riscos e limitações documentados
+- [ ] Plano de deploy e rollback disponível
+- [ ] Autorização explícita antes de publicação
+- [ ] Pós-deploy verificado quando autorizado
